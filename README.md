@@ -137,7 +137,8 @@ I don’t claim to know everything — but I **know how to learn, build, and imp
 ## 📫 Let’s Connect
 
 - GitHub: https://github.com/roshankarthik1411
-- LinkedIn: https://linkedin.com/in/roshankarthik1411 (feel free to reach out!)
+- linkedin: www.linkedin.com/in/
+roshan-kurella (feel free to reach out!)
 - Open to collaboration, feedback, and opportunities  
 
 If you’re reviewing this profile as a recruiter or engineer:  
